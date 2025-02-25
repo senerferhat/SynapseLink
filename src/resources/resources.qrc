@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <file>icons/new_connection.png</file>
+        <file>icons/save.png</file>
+        <file>icons/load.png</file>
+        <file>icons/split_view.png</file>
+        <file>icons/protocol.png</file>
+        <file>icons/automation.png</file>
+        <file>icons/dark_mode.png</file>
+        <file>icons/security.png</file>
+        <file>icons/user.png</file>
+        <file>icons/export.png</file>
+        <file>icons/search.png</file>
+        <file>icons/settings.png</file>
+    </qresource>
+    <qresource prefix="/app">
+        <file>icon.ico</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC> 
